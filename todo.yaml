@@ -1,0 +1,27 @@
+
+- **index.html** – UI structure  
+- **style.css** – Styling for the application  
+- **script.js** – All app logic (add, delete, save, load, checkbox)
+
+---
+
+## 📷 Screenshots
+
+> *(Add screenshots of your UI here if needed)*
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Web Storage API (LocalStorage)
+
+---
+
+## 📦 Installation & Usage
+
+1. Download or clone the repository:
+   ```bash
+   git clone <repo-url>
